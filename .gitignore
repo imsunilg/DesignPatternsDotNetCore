@@ -1,0 +1,68 @@
+# Build Folders (bin and obj)
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio for Mac
+.idea/
+*.userprefs
+
+# ASP.NET temporary files
+**/App_Data/
+
+# Others
+*.log
+*.tlog
+*.pidb
+*.svclog
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# DotCover
+.idea/
+*.dotCover
+
+# Rider
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider
+.idea/
+
+# Backup & cache
+*.bak
+*.cache
+*.dbmdl
+
+# Local history
+.localhistory/
+
+# Temporary files
+~$*
+*.tmp
+
+# Publish output
+publish/
