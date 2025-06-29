@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\visitorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:visitorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\templatepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:templatepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\strategypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:strategypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\statepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:statepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\proxypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:proxypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\mementopattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:mementopattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\mediatorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:mediatorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\iteratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:iteratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\interpreterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:interpreterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\flyweightpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:flyweightpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\facadepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:facadepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|e:\\projects\\.netcore\\designpattern\\designpattern\\decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C20494-7A78-4E8A-88FA-C98C54569997}|DesignPattern.csproj|solutionrelative:decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:53:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\VisitorPattern.cs",
+              "RelativeDocumentMoniker": "VisitorPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\VisitorPattern.cs",
+              "RelativeToolTip": "VisitorPattern.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:52:59.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplatePattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\TemplatePattern.cs",
+              "RelativeDocumentMoniker": "TemplatePattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\TemplatePattern.cs",
+              "RelativeToolTip": "TemplatePattern.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:51:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrategyPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\StrategyPattern.cs",
+              "RelativeDocumentMoniker": "StrategyPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\StrategyPattern.cs",
+              "RelativeToolTip": "StrategyPattern.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:50:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatePattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\StatePattern.cs",
+              "RelativeDocumentMoniker": "StatePattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\StatePattern.cs",
+              "RelativeToolTip": "StatePattern.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:50:32.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingletonPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\SingletonPattern.cs",
+              "RelativeDocumentMoniker": "SingletonPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\SingletonPattern.cs",
+              "RelativeToolTip": "SingletonPattern.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:50:23.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProxyPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\ProxyPattern.cs",
+              "RelativeDocumentMoniker": "ProxyPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\ProxyPattern.cs",
+              "RelativeToolTip": "ProxyPattern.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:49:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrototypePattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\PrototypePattern.cs",
+              "RelativeDocumentMoniker": "PrototypePattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\PrototypePattern.cs",
+              "RelativeToolTip": "PrototypePattern.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:49:35.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObserverPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\ObserverPattern.cs",
+              "RelativeDocumentMoniker": "ObserverPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\ObserverPattern.cs",
+              "RelativeToolTip": "ObserverPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:48:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MementoPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\MementoPattern.cs",
+              "RelativeDocumentMoniker": "MementoPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\MementoPattern.cs",
+              "RelativeToolTip": "MementoPattern.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:48:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MediatorPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\MediatorPattern.cs",
+              "RelativeDocumentMoniker": "MediatorPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\MediatorPattern.cs",
+              "RelativeToolTip": "MediatorPattern.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:47:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IteratorPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\IteratorPattern.cs",
+              "RelativeDocumentMoniker": "IteratorPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\IteratorPattern.cs",
+              "RelativeToolTip": "IteratorPattern.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:45:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterpreterPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\InterpreterPattern.cs",
+              "RelativeDocumentMoniker": "InterpreterPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\InterpreterPattern.cs",
+              "RelativeToolTip": "InterpreterPattern.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:44:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlyweightPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FlyweightPattern.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FlyweightPattern.cs",
+              "RelativeToolTip": "FlyweightPattern.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:44:24.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "FactoryPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FactoryPattern.cs",
+              "RelativeToolTip": "FactoryPattern.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:40:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacadePattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FacadePattern.cs",
+              "RelativeDocumentMoniker": "FacadePattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\FacadePattern.cs",
+              "RelativeToolTip": "FacadePattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:40:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DecoratorPattern.cs",
+              "DocumentMoniker": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\DecoratorPattern.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern.cs",
+              "ToolTip": "E:\\Projects\\.netCore\\DesignPattern\\DesignPattern\\DecoratorPattern.cs",
+              "RelativeToolTip": "DecoratorPattern.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:40:02.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
