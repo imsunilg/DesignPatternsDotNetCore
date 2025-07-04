@@ -1,11 +1,13 @@
 # Build Folders (bin and obj)
  
 /DesignPattern/obj/
+/DesignPattern/obj/Debug/net9.0/
 /DesignPattern/bin/
 /DesignPattern/.vs
 # Ignore build outputs
 bin/
 obj/
+obj/Debug/net9.0/
 
 # Ignore Visual Studio working folder
 .vs/
@@ -87,3 +89,4 @@ publish/
 git rm -r --cached .vs obj
 git commit -m "Remove .vs and obj folders from repo"
 
+/DesignPattern/obj/Debug/net9.0/DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
