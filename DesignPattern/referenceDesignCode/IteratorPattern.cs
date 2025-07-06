@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Iterator Interface
     public interface IIterator<T>

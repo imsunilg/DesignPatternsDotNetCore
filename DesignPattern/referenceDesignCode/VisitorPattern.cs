@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Visitor Interface
     public interface IVisitor

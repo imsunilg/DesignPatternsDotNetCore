@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Implementor interface defines the implementation class interface
     public interface IImplementor

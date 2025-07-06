@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Strategy Interface
     public interface IStrategy

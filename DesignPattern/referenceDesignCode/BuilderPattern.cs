@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Product class that is being constructed
     public class Product

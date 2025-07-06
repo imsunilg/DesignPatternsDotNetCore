@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Command interface
     public interface ICommand

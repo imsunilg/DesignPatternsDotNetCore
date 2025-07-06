@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // State Interface
     public interface IState

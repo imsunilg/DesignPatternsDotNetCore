@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Abstract Prototype
     public abstract class Prototype
@@ -21,7 +21,7 @@ namespace DesignPatternsDotNetCore
 
         public override Prototype Clone()
         {
-            return (Prototype)this.MemberwiseClone();
+            return (Prototype)MemberwiseClone();
         }
 
         public void Show()

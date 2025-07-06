@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // The Singleton class ensures that only one instance of itself is created.
     public class Singleton
@@ -64,7 +64,7 @@ namespace DesignPatternsDotNetCore
             instance2.ShowMessage();
 
             // Check if both instances are the same (expected: True)
-            Console.WriteLine($"Are both instances same? {object.ReferenceEquals(instance1, instance2)}");
+            Console.WriteLine($"Are both instances same? {ReferenceEquals(instance1, instance2)}");
         }
     }
 }

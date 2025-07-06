@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Abstract Template Class
     public abstract class Template

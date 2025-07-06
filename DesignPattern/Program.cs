@@ -1,3 +1,4 @@
+using DesignPattern.referenceDesignCode;
 using System;
 
 namespace DesignPatternsDotNetCore
@@ -7,7 +8,8 @@ namespace DesignPatternsDotNetCore
         static void Main(string[] args)
         {
             Console.WriteLine("Design Patterns Examples in .NET Core");
-
+            #region Design Patterns Execution
+            /* 
             // Call each design pattern method here (examples below)
 
             ////Creational Design Patterns Execution
@@ -43,6 +45,9 @@ namespace DesignPatternsDotNetCore
             TemplatePattern.Execute();
             VisitorPattern.Execute();
             Console.WriteLine("==============End of Behavioral Design Patterns==============");
+
+            */
+            #endregion Design Patterns Execution
         }
     }
 }

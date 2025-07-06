@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DesignPatternsDotNetCore
+namespace DesignPattern.referenceDesignCode
 {
     // Flyweight class
     public class Flyweight
