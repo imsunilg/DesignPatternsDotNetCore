@@ -12,6 +12,34 @@ namespace DesignPatternsDotNetCore
 
             Console.WriteLine("Design Patterns Examples in .NET Core");
 
+            #region Bridge Example
+
+            PolicyChannel policy1 = new AgentChannel(new MotorPolicy());
+            policy1.Generate();  // Agent Channel: Motor Policy Generated
+
+            PolicyChannel policy2 = new WebChannel(new HealthPolicy());
+            policy2.Generate();  // Web Channel: Health Policy Generated
+
+            PolicyChannel policy3 = new BranchChannel(new LifePolicy());
+            policy3.Generate();  // Branch Channel: Life Policy Generated
+
+            PolicyChannel policy4 = new WebChannel(new LifePolicy());
+            policy4.Generate();  // Web Channel: Life Policy Generated
+
+            Console.ReadLine();
+            /*  IEngine electricEngine = new ElectricEngine();
+            IVehicle car = new Car(electricEngine);
+            car.Refill();
+            IVehicle bike = new Bike(electricEngine);
+            bike.Refill();
+            IEngine petrolEngine = new petrolEngine();
+            IVehicle car2 = new Car(petrolEngine);
+            car2.Refill();
+            IVehicle bike2 = new Bike(petrolEngine);
+            bike2.Refill();
+          */
+
+            #endregion  Bridge Example
             #region factory Example
             /*
             Waiter objwaiter = new Waiter();
